@@ -1,6 +1,8 @@
 # Concert Nature
 
-Site web moderne pour des événements musicaux en plein air, construit avec HTML, CSS et JavaScript, et déployé sur Netlify.
+Site web moderne pour des événements musicaux en plein air, construit avec HTML, CSS et JavaScript, Hugo et déployé sur Netlify.
+
+git submodule add zhaohuabing/hugo-theme-cleanwhite  themes/hugo-theme-cleanwhite
 
 ## Configuration technique
 
