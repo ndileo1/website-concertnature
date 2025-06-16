@@ -1,0 +1,28 @@
+/* Ajuste la hauteur de l'image de couverture */
+.intro-header {
+    height: 60vh; /* 60% de la hauteur de l'écran */
+    min-height: 400px; /* Hauteur minimale */
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+/* Ajuste la position du titre et du sous-titre */
+.intro-header .page-heading,
+.intro-header .post-heading,
+.intro-header .site-heading {
+    padding: 100px 0 50px;
+}
+
+/* Pour les écrans plus petits */
+@media (max-width: 768px) {
+    .intro-header {
+        height: 40vh;
+        min-height: 300px;
+    }
+    
+    .intro-header .page-heading,
+    .intro-header .post-heading,
+    .intro-header .site-heading {
+        padding: 60px 0 30px;
+    }
+}

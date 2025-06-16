@@ -1,3 +1,52 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://votre-nom-site.netlify.app/'
+languageCode = 'fr-FR'
+title = 'Concert Nature'
+theme = 'hugo-theme-cleanwhite'
+
+[params]
+  # Paramètres du thème
+  avatar = "images/first-images.png"
+  header_image = "images/first-images.png"
+  subtitle = "Concerts de piano devant les plus beaux paysages des Pyrénées 🌄🎶"
+  description = "En fonction de la météo, les infos des concerts seront communiquées une semaine avant."
+  keywords = "concert, nature, musique, plein air"
+  custom_css = ["css/custom.css"]
+
+  [params.social]
+    github = ""
+    twitter = ""
+    instagram = "https://www.instagram.com/the.traveling.piano/"
+    facebook = ""
+    linkedin = ""
+    email = ""
+
+[menu]
+  [[menu.main]]
+    identifier = "accueil"
+    name = "Accueil"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "a-propos"
+    name = "À propos"
+    url = "/a-propos/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4

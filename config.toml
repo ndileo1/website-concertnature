@@ -1,9 +1,0 @@
-baseURL = "https://votresite.netlify.app/"
-languageCode = "fr-fr"
-title = "Concert Nature"
-theme = "hugo-theme-cleanwhite"
-
-[
-params
-]
-  description = "Votre description"
