@@ -1,0 +1,75 @@
+title = "Concert Nature"
+baseURL = "https://concertnature.com"
+languageCode = "fr-fr"
+theme = "ananke"
+timeZone = "Europe/Paris"
+
+DefaultContentLanguage = "fr"
+SectionPagesMenu = "main"
+[pagination]
+pagerSize = 10  # Nombre d'articles affichés par page
+googleAnalytics = ""
+
+[build]
+  future = true  # Afficher les contenus datés dans le futur
+enableRobotsTXT = true
+
+[languages]
+[languages.fr]
+title = "Concert Nature"
+weight = 1
+contentDir = "content/fr"
+# languageDirection = 'rtl' for Right-To-Left languages
+[languages.en]
+title = "Concert Nature"
+contentDir = "content/en"
+weight = 2
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+text_color = ""
+author = ""
+favicon = ""
+# Ajuster l'opacité du voile sombre sur l'image d'en-tête (0 = transparent, 100 = noir opaque)
+cover_dimming_class = "bg-black-30"
+site_logo = ""
+description = "The last theme you'll ever need. Maybe."
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-black"
+recent_posts_number = 3
+
+# Configuration des réseaux sociaux
+[params.ananke.social.follow]
+  new_window_icon = true
+  networks = ["instagram", "facebook", "youtube", "tiktok"]
+
+[params.ananke.social.share]
+  icons = true
+  sharetext = true
+  networks = ["instagram", "facebook", "youtube", "tiktok"]
+
+# Surcharger les URLs des réseaux sociaux
+[params.ananke.social.networks.instagram]
+  profile = "https://www.instagram.com/the.traveling.piano/"
+
+[params.ananke.social.networks.facebook]
+  profile = "https://www.facebook.com/profile.php?id=61571522732617"
+
+[params.ananke.social.networks.youtube]
+  profile = "https://www.youtube.com/@dileo.timothee"
+
+[params.ananke.social.networks.tiktok]
+  profile = "https://www.tiktok.com/@the.traveling.piano"
+
+
+
+# Liens vers les profils sociaux
+[params.social]
+  instagram = "the.traveling.piano"  # Le nom d'utilisateur est toujours nécessaire pour l'icône
+  facebook = "Concert Nature"  # Ajoute ton nom d'utilisateur Facebook
+  youtube = "dileo.timothee"
+  tiktok = "the.traveling.piano"

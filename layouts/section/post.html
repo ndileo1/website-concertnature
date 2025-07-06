@@ -1,0 +1,36 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+      {{- .Content -}}
+    </section>
+    
+    {{/* Section pour les concerts à venir */}}
+    {{ $now := now }}
+    {{ $upcoming := where .Pages ".Date" ">=" $now }}
+    {{ if gt (len $upcoming) 0 }}
+      <h2 class="f2 tc">{{ i18n "upcomingConcerts" }}</h2>
+      <section class="flex-ns flex-wrap justify-around">
+        {{ range sort $upcoming ".Date" "asc" }}
+          <div class="w-100 w-30-l mb4 relative">
+            {{ .Render "summary" }}
+          </div>
+        {{ end }}
+      </section>
+    {{ end }}
+    
+    {{/* Section pour les concerts passés */}}
+    {{ $past := where .Pages ".Date" "<" $now }}
+    {{ if gt (len $past) 0 }}
+      <h2 class="f2 tc mt5">{{ i18n "pastConcerts" }}</h2>
+      <section class="flex-ns flex-wrap justify-around">
+        {{ range sort $past ".Date" "desc" }}
+          <div class="w-100 w-30-l mb4 relative">
+            {{ .Render "summary" }}
+          </div>
+        {{ end }}
+      </section>
+    {{ end }}
+    
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+{{ end }}
