@@ -8,7 +8,7 @@ DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 [pagination]
 pagerSize = 10  # Nombre d'articles affichés par page
-googleAnalytics = ""
+
 
 [build]
   future = true  # Afficher les contenus datés dans le futur
@@ -45,31 +45,60 @@ recent_posts_number = 3
 # Configuration des réseaux sociaux
 [params.ananke.social.follow]
   new_window_icon = true
-  networks = ["instagram", "facebook", "youtube", "tiktok"]
+  networks = ["instagram", "facebook", "youtube", "tiktok", "whatsapp"]
 
 [params.ananke.social.share]
   icons = true
   sharetext = true
-  networks = ["instagram", "facebook", "youtube", "tiktok"]
+  networks = ["instagram", "facebook", "youtube", "tiktok", "whatsapp"]
 
 # Surcharger les URLs des réseaux sociaux
 [params.ananke.social.networks.instagram]
   profile = "https://www.instagram.com/the.traveling.piano/"
+  slug = "instagram"
+  label = "Instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/the.traveling.piano/"
+  linkintext = true
+  [params.ananke.social.networks.instagram.particles]
+      text = "Rejoignez mon groupe Instagram"
 
 [params.ananke.social.networks.facebook]
   profile = "https://www.facebook.com/profile.php?id=61571522732617"
+  slug = "facebook"
+  label = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/profile.php?id=61571522732617"
+  linkintext = true
+  [params.ananke.social.networks.facebook.particles]
+      text = "Rejoignez mon groupe Facebook"
 
 [params.ananke.social.networks.youtube]
   profile = "https://www.youtube.com/@dileo.timothee"
+  slug = "youtube"
+  label = "YouTube"
+  icon = "youtube"
+  link = "https://www.youtube.com/@dileo.timothee"
+  linkintext = true
+  [params.ananke.social.networks.youtube.particles]
+      text = "Rejoignez mon groupe YouTube"
 
 [params.ananke.social.networks.tiktok]
   profile = "https://www.tiktok.com/@the.traveling.piano"
+  slug = "tiktok"
+  label = "TikTok"
+  icon = "tiktok"
+  link = "https://www.tiktok.com/@the.traveling.piano"
+  linkintext = true
+  [params.ananke.social.networks.tiktok.particles]
+      text = "Rejoignez mon groupe TikTok"
 
-
-
-# Liens vers les profils sociaux
-[params.social]
-  instagram = "the.traveling.piano"  # Le nom d'utilisateur est toujours nécessaire pour l'icône
-  facebook = "Concert Nature"  # Ajoute ton nom d'utilisateur Facebook
-  youtube = "dileo.timothee"
-  tiktok = "the.traveling.piano"
+[params.ananke.social.networks.whatsapp]
+  profile = "https://chat.whatsapp.com/DDwdBGF8bXe9GePZuLr3bI?mode=ac_t"
+  slug = "whatsapp"
+  label = "WhatsApp"
+  icon = "whatsapp"
+  link = "https://chat.whatsapp.com/DDwdBGF8bXe9GePZuLr3bI?mode=ac_t"
+  linkintext = true
+[params.ananke.social.networks.whatsapp.particles]
+    text = "Rejoignez mon groupe WhatsApp"

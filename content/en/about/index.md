@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Discover my passion for music and nature."
-featured_image: '/images/header.jpeg'
+featured_image: '/images/ConcertNatureHeader.png'
 cover_dimming_class: "bg-black-30"
 menu:
   main:
@@ -9,6 +9,8 @@ menu:
 ---
 
 {{< figure src="/images/timo-piano.jpeg">}}
+
+ [Listen my last radio interview](https://www.frequenceluz.com/parle-musique/concerts-nature-timothee)
 
 ## Equipment:
 

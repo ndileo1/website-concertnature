@@ -1,5 +1,5 @@
 ---
-title: "Concert Chateau de Mauvezin'"
+title: "Concert Chateau de Mauvezin"
 date: 2025-05-31
 description: "L’événement est organisé en colaboration avec l’association « la Marguerite de Mauvezin », « l’escola Gaston Febus »"
 categories: ["concert", "nature"]
@@ -17,35 +17,8 @@ Quel bohneur de jouer dans un cadre pareil. Plus d’une centaine de personnes v
 
 - **Date** : 31 mai 2025
 - **Lieu** : Mauvezin
-- **Programme** : 
 
-**Première Partie: CLASSIQUE & MINIMALISTE**
-
-- Erik Satie - Gnossienne n’1
-- Francisco Casarotti - The Emmerging Light
-- Kirill Richter - In Memoriam
-- Max Riechter - Departure
-- Paul de Sénnéville - Mariage d’amour
-- Pachelbel - Canon
-- Beethoven - Moonlight Sonata
-
-
-**Deuxième Partie: MUSIQUE DE FILM**
-
-- Yann Tiersen - Valse d’Amélie (de Amélie Poulain)
-- Yann Tiersen - Comptine d’un autre été (de Amélie Poulain)
-- Ludovico Einaudi - Una Mattina (de Intouchable)
-- John Willams - Schindler’s List Theme (de La liste de Schindler)
-- Justin Hurwitz - Mia and Seb’s Theme (de Lalaland)
-- Justin Hurwitz - Amstrong Cabin (de First Man)
-- Joe Hisaishi - Confession in the Moonlight (de Château dans le ciel)
-- Joe Hisaishi - Fantasia (de Nausicaa)
-
-
-**FIN: THEME MÉDIÉVALE**
-
-- Ramin Djawadi - Light of the Seven (de Game of Throines)
-- Hans Zimmer - Now you are free (de Gladiator)
+{{< accordion-fr >}}
 
 
 Je vous propose un concert de piano à 19h le 31 mai devant le Château de Mauvezin et vue sur la chaîne des Pyrénées.

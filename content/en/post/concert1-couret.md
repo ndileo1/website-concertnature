@@ -1,14 +1,12 @@
 ---
 title: "Concert at Col de Couret"
-date: 2025-04-25
+date: 2025-08-22
 description: "A magical evening under the stars with breathtaking views of the Pyrenees"
 categories: ["concert", "nature"]
 tags: ["classical music", "piano", "mountain", "summer"]
 image: "/images/concert2.jpeg"
 type: post
 ---
-
-## Col de Couret
 
 {{< youtube hmriAtD3hno >}}
 
@@ -18,12 +16,8 @@ Second concert, set in the very landscape that inspired me to create these natur
 
 ## Event Details
 
-- **Date**: April 25, 2025
+- **Date**: Friday August 22, 2025 at 19h
 - **Location**: Col de Couret, Pyrenees
-- **Program**: 
-  - Beethoven: Moonlight Sonata (1st movement)
-  - Debussy: Clair de Lune
-  - Liszt: Liebestraum
-  - Chopin: Selected Nocturnes
-
 Col de Couret, simply the place that inspired me to create my nature concerts!!
+
+{{< accordion-en >}}

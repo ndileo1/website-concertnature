@@ -18,29 +18,7 @@ What a joy to perform in such a setting. Over a hundred people came to attend th
 
 - **Date**: May 31, 2025
 - **Location**: Mauvezin
-- **Program**: 
 
-**First Part: CLASSICAL & MINIMALIST**
-
-- Erik Satie - Gnossienne No.1
-- Francisco Casarotti - The Emerging Light
-- Kirill Richter - In Memoriam
-- Max Richter - Departure
-- Paul de Senneville - Mariage d'amour
-- Pachelbel - Canon in D
-
-**Second Part: FILM MUSIC**
-
-- Yann Tiersen - Comptine d'un autre été (Amélie)
-- Ludovico Einaudi - Nuvole Bianche
-- Yiruma - River Flows in You
-- Hans Zimmer - Time (Inception)
-- Yann Tiersen - La Valse d'Amélie
-- Ennio Morricone - Love Theme from Cinema Paradiso
-
-**Encore**
-
-- Ludovico Einaudi - I Giorni
-- Yann Tiersen - La Dispute
+{{< accordion-en >}}
 
 *The concert will be followed by a meet-and-greet with the artist.*

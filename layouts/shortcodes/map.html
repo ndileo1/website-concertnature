@@ -1,0 +1,16 @@
+{{- $src := .Get "src" -}}
+{{- if $src }}
+  <div class="map-container">
+    <iframe 
+      src="{{ $src }}"
+      width="400" 
+      height="300"
+      style="border:0;" 
+      allowfullscreen="" 
+      loading="lazy" 
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+{{- else }}
+  <p><em>Erreur : aucun lien Google Maps fourni au shortcode.</em></p>
+{{- end }}
