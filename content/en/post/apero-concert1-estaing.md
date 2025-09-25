@@ -27,4 +27,3 @@ The Lake Estaing Reception Center and I myself propose a piano aperitif evening.
 
 {{< accordion-en >}}
 
-{{< figure src="/images/concert1-2.jpeg">}}
