@@ -2,7 +2,7 @@
 title: "À propos"
 description: "découvrez ma passion pour la musique et la nature"
 cover_dimming_class: "bg-black-30"
-featured_image: '/images/ConcertNatureHeader.png'
+featured_image: '/images/header.png'
 menu:
   main:
     weight: 1

@@ -5,7 +5,7 @@ description: "Piano concerts set against the most beautiful landscapes of the Py
 
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/ConcertNatureHeader.png'
+  featured_image: '/images/header.png'
 ---
 
 I offer piano concerts in the mountains, where the concept is to admire the landscape while enjoying the gentle sound of the piano.

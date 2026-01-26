@@ -3,7 +3,7 @@ title: "Concert Nature"
 
 description: "Concerts de piano devant les plus beaux paysages des Pyrénées"
 cascade:
-  featured_image: '/images/ConcertNatureHeader.png'
+  featured_image: '/images/header.png'
 ---
 
  [Accedez au groupe whatsapp](https://chat.whatsapp.com/DDwdBGF8bXe9GePZuLr3bI?mode=ac_t)

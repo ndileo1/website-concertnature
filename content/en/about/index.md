@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Discover my passion for music and nature."
-featured_image: '/images/ConcertNatureHeader.png'
+featured_image: '/images/header.png'
 cover_dimming_class: "bg-black-30"
 menu:
   main:
