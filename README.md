@@ -13,10 +13,7 @@
   attention ne pas utiliser `hugo server --minify --buildFuture`
   
 * Publier le site web
-  - se connecter au server via FileZilla : 
-    - Hote: `concertnature.com`
-    - Nom d'utilisateur `390w29_ndi`
-    - MP : ?
+  - se connecter au server via FileZilla (voir note dans dossier info/s)
   - Supprimer le contenu de `/`
   - Téléverser le contenu du dossier `/public` vers le site distant 
   (attention la taille du dossier `/public` ne doit pas dépasser 10Mb, a voir si on augmente la taille sur Infomaniac)

@@ -8,7 +8,7 @@ menu:
     weight: 1
 ---
 
-{{< figure src="/images/timo-piano.jpeg">}}
+{{< figure src="/images/photo About.jpeg">}}
 
  [Ecoutez mon dernier interview radio](https://www.frequenceluz.com/parle-musique/concerts-nature-timothee)
 
