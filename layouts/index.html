@@ -1,0 +1,34 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <div class="flex-l flex-row-l flex-column flex-wrap-l items-start justify-between">
+      <!-- Colonne gauche : texte d'intro -->
+      <section class="w-100 w-50-l ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+        {{- .Content -}}
+      </section>
+      <!-- Colonne droite : prochain concert -->
+      <section class="w-100 w-50-l ph3 ph5-l pv3 pv4-l">
+        {{ $now := now }}
+        {{ $upcoming := where .Site.RegularPages "Section" "post" }}
+        {{ $upcoming = sort $upcoming ".Date" "asc" }}
+        {{ $futureConcerts := slice }}
+        {{ range $upcoming }}
+          {{ if ge .Date.Unix now.Unix }}
+            {{ $futureConcerts = $futureConcerts | append . }}
+          {{ end }}
+        {{ end }}
+        {{ if gt (len $futureConcerts) 0 }}
+          <h2 class="f3 tc">{{ i18n "upcomingConcerts" }}</h2>
+          <div class="mb4">
+            {{ with index $futureConcerts 0 }}
+              {{ .Render "summary" }}
+            {{ end }}
+          </div>
+        {{ else }}
+          <div class="tc mv5">
+            <p class="f4">Aucun concert à venir pour le moment. Revenez bientôt pour découvrir nos prochains événements !</p>
+          </div>
+        {{ end }}
+      </section>
+    </div>
+  </article>
+{{ end }}

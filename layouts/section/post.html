@@ -1,0 +1,51 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+      {{- .Content -}}
+    </section>
+    
+    <!-- Section cachée contenant tous les concerts -->
+    <section id="all-concerts" style="display:none;">
+      {{ range .Pages }}
+        <div class="concert w-100 w-30-l mb4 relative" data-date="{{ .Date.Format "2006-01-02" }}">
+          {{ .Render "summary" }}
+        </div>
+      {{ end }}
+    </section>
+
+    <!-- Sections pour JS -->
+    <h2 class="f2 tc">{{ i18n "upcomingConcerts" }}</h2>
+    <section id="concerts-a-venir" class="flex-ns flex-wrap justify-around"></section>
+    <h2 class="f2 tc mt5">{{ i18n "pastConcerts" }}</h2>
+    <section id="concerts-passes" class="flex-ns flex-wrap justify-around"></section>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const now = new Date();
+      const allConcerts = Array.from(document.querySelectorAll('#all-concerts .concert'));
+      const upcomingSection = document.getElementById('concerts-a-venir');
+      const pastSection = document.getElementById('concerts-passes');
+      // Séparer les concerts
+      const upcoming = [];
+      const past = [];
+      allConcerts.forEach(concert => {
+        const dateStr = concert.getAttribute('data-date');
+        const concertDate = new Date(dateStr);
+        if (concertDate.setHours(0,0,0,0) >= now.setHours(0,0,0,0)) {
+          upcoming.push({date: concertDate, el: concert});
+        } else {
+          past.push({date: concertDate, el: concert});
+        }
+      });
+      // Trier
+      upcoming.sort((a, b) => a.date - b.date);
+      past.sort((a, b) => b.date - a.date);
+      // Afficher
+      upcoming.forEach(item => upcomingSection.appendChild(item.el.cloneNode(true)));
+      past.forEach(item => pastSection.appendChild(item.el.cloneNode(true)));
+    });
+    </script>
+    
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+{{ end }}
