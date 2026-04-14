@@ -24,6 +24,8 @@ Quel bohneur de jouer dans un cadre pareil. Plus d’une centaine de personnes v
 
 
 
+{{< accordion-fr >}}
+
 ## Localisation
 
 Je vous propose un concert de piano à 19h le 31 mai devant le Château de Mauvezin et vue sur la chaîne des Pyrénées.
