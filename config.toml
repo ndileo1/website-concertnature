@@ -54,21 +54,21 @@ recent_posts_number = 3
 
 # Surcharger les URLs des réseaux sociaux
 [params.ananke.social.networks.instagram]
-  profile = "https://www.instagram.com/the.traveling.piano/"
+  profile = "https://www.instagram.com/concert.nature/"
   slug = "instagram"
   label = "Instagram"
   icon = "instagram"
-  link = "https://www.instagram.com/the.traveling.piano/"
+  link = "https://www.instagram.com/concert.nature/"
   linkintext = true
   [params.ananke.social.networks.instagram.particles]
       text = "Rejoignez mon groupe Instagram"
 
 [params.ananke.social.networks.facebook]
-  profile = "https://www.facebook.com/profile.php?id=61571522732617"
+  profile = "https://www.facebook.com/profile.php?id=61577431452674&notif_id=1774815570147899&notif_t=follower_invite&ref=notif"
   slug = "facebook"
   label = "Facebook"
   icon = "facebook"
-  link = "https://www.facebook.com/profile.php?id=61571522732617"
+  link = "https://www.facebook.com/profile.php?id=61577431452674&notif_id=1774815570147899&notif_t=follower_invite&ref=notif"
   linkintext = true
   [params.ananke.social.networks.facebook.particles]
       text = "Rejoignez mon groupe Facebook"
