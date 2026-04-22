@@ -12,17 +12,17 @@ Tu vas devoir suivre cette procédure pour rajouter un concert :
         - Le reste des informations sont à modifier selon le concert (images, lieu, description, etc)
 
 
-5. Créer une branche Git
-    git checkout -b add-concert-nom-du-concert
+5. Créer une branche GIT (en local)
+    git checkout -b add-concert-xxx (tu choisis le nom de la branche exemple : add-concert-estaing)
 
-6. Ajouter les modifications
+6. Ajouter les modifications (en local)
     git add .
 
-7. Commiter les modifications
-    git commit -m "Ajout du concert : nom-du-concert"
+7. Commiter les modifications (en local)
+    git commit -m "Ajout du concert : nom-du-concert" (par exemple : Ajout du concert : estaing)
 
-8. Pousser les modifications
-    git push -u origin add-concert-nom-du-concert
+8. Pousser les modifications sur GIT (en ligne)
+    git push -u origin add-concert-xxx
 
 9. Créer une Pull Request
     Allez sur GitHub : https://github.com/ndileo1/website-concertnature
