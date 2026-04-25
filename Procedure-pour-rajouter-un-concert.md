@@ -4,6 +4,17 @@ Bonjour jeune padawan ! ✋
 Voici le guide étape par étape pour ajouter un nouveau concert sur ton site. Suis bien chaque point pour que tout fonctionne parfaitement.
 
 ---
+## 🏗️ Étape 0 : Vérifier que je n'ai pas de modification en cours 
+
+```bash
+git status
+```
+
+## A faire si pas de modification et que je suis pas sur la branche "master"
+```bash
+git checkout master
+git pull
+```
 
 ## 🏗️ Étape 1 : Préparation du contenu
 
