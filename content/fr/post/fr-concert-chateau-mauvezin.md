@@ -1,7 +1,7 @@
 ---
-title: "Concert au Chateau de Mauvezin"
+title: "CONCERT AU CHÂTEAU DE MAUVEZIN"
 date: 2026-05-23T23:59:00
-description: "L’événement est organisé en colaboration avec l’association « la Marguerite de Mauvezin », « l’escola Gaston Febus »"
+description: "Venez vivre une expérience hors du commun dans un cadre magnifique"
 categories: ["concert", "nature"]
 tags: ["musique classique", "piano", "chateau", "été"]
 image: "/images/tp tech.jpeg"
@@ -12,31 +12,34 @@ type: post
 
 
 
-## Détails de l'événement
+## Détails
 
 - **Date** : Vendredi 23 mai 2026
 - **Heure** : 18h
-- **Lieu** : Mauvezin, Hautes-Pyrénées
 
-{{< figure src="/images/tp mauvezin.png">}}
+{{< figure src="/images/cn mauvezin.jpeg">}}
 
 
-Quel bohneur de jouer dans un cadre pareil. La douce musique du piano mélanger au décor spectaculaire de la chaîne des Pyrénées et du château de Mauvezin, tous y était !
+Après l'édition de l'année dernière qui était une immense réussite, je vous propose un nouveau concert avec un tous nouveau répertoire. 
+Ne manquez pas cette évenement extraordinaire dans un cadre absolument idylique !!!
+Hâte de vous retourvez pour partager ma musique avec vous.
+
+L’événement est organisé par l’association «la Marguerite de Mauvezin (65130)», « l’escola Gaston Febus »
+
+Contrairement aux autres concerts nature où je suis dépendant d’une bonne météo, nous avons une solution de repli à l’église du village en cas de mauvaise temps.
+
+Il faudra se garer sur le parking du bas et rejoindre le château à pied (100 m). 
+
+Le concert durera 1h environ et sera suivis d’un petit pot/apéro. 
+
+De plus vous serez installés dans l’herbe, pour ceux qui veulent n’hésitez pas à prendre une chaise de camping, couverture ou autres. 
+
+
+Participation libre.
 
 
 
 {{< accordion-fr >}}
 
-## Localisation
 
-Je vous propose un concert de piano à 19h le 31 mai devant le Château de Mauvezin et vue sur la chaîne des Pyrénées.
 
-Contrairement aux autres concerts nature où je suis dépendant d’une bonne météo, nous avons une solution de repli à l’église du village en cas de mauvaise temps.
-
-Il faudra se garer sur le parking du bas et rejoindre le château à pied (100 mt).
-
-Le concert durera 1h15 environ et sera suivis d’un petit pot/apéro.
-
-De plus vous serez installés dans l’herbe, pour ceux qui veulent n’hésitez pas à prendre une chaise de camping ou autres.
-
-Participation libre.
