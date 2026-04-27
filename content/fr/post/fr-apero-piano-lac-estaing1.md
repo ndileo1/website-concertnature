@@ -1,6 +1,6 @@
 ---
-title: "Apéro-Piano au Centre d’Accueil du lac d’Estaing n°"
-date: 2026-08-08T23:59:00
+title: "Apéro-Piano au Centre d’Accueil du lac d’Estaing n°1"
+date: 2026-06-19T23:59:00
 description: "Petite pause musicale et gourmande au cœur des Pyrénées"
 categories: ["concert", "nature"]
 tags: ["musique", "piano", "plein air"]
@@ -9,9 +9,9 @@ type: post
 ---
 
 
-## Les détails
+## Détails
 
-- **Date** : 8 août 2026
+- **Date** : 19 juin 2026
 - **Lieu** : Lac d’Estaing
 - **Heure** : 18h
 

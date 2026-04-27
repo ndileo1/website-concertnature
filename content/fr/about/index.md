@@ -8,7 +8,7 @@ menu:
     weight: 1
 ---
 
-{{< figure src="/images/photo About.jpeg">}}
+{{< figure src="/images/cn estaing 5.jpg">}}
 
  [Ecoutez mon dernier interview radio](https://www.frequenceluz.com/parle-musique/concerts-nature-timothee)
 
@@ -17,9 +17,6 @@ menu:
 - Piano : Roland Fp-30
 - Enceinte : Triangle AIO Twin 
 - Batterie : EcoFlow River 2 Pro
-
-
-{{< figure src="/images/new-image.jpeg" >}}
 
 ## Parcours : 
 

@@ -13,17 +13,17 @@ Je propose des concerts de piano dans les montagnes, le concept et d’admirer l
 Chaque concert dure 1h environ et le prix est libre. 
 
 Liste des différents lieux : 
-    
-  - **Lac du Tech**
-  - **Lac d’Estaing**
-  - **Col du Soulor**
-  - **Col de Couret** 
-  - **Hautacam**
-  - **Lac de Genos-Loudenvielle**
-  - **Lac de Payolle**
-  - **Parc Thermal d'Argeles-Gazost**
 
-Etant dépendant de la météo, il se peut que le concert soit annulé ou reporté à cause de mauvais temps alors il faudra vérifier la veille et le jour même si l’événement est maintenu via le groupe [Whatsapp](https://chat.whatsapp.com/DDwdBGF8bXe9GePZuLr3bI?mode=ac_t)
+**Lac du Tech**  
+**Lac d’Estaing**  
+**Col du Soulor** 
+**Col de Couret**  
+**Hautacam**  
+**Lac de Genos-Loudenvielle**  
+**Lac de Payolle**  
+**Parc Thermal d'Argeles-Gazost**
+
+Etant dépendant de la météo, il se peut que le concert soit annulé ou reporté à cause de mauvais temps. Il faudra alors vérifier la veille et le jour même si l’événement est maintenu via le groupe [Whatsapp](https://chat.whatsapp.com/DDwdBGF8bXe9GePZuLr3bI?mode=ac_t)
 
  {{< linkpreview
     url="https://www.frequenceluz.com/parle-musique/concerts-nature-timothee"
