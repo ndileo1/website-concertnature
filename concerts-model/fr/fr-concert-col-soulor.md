@@ -1,6 +1,6 @@
 ---
 title: "Concert au col du Soulor"
-date: 2025-08-19
+date: 2025-08-19T23:59:00
 description: "Une soirée magique sous les étoiles avec vue imprenable sur la chaîne des Pyrénées"
 categories: ["concert", "nature"]
 tags: ["musique classique", "piano", "montagne", "été"]

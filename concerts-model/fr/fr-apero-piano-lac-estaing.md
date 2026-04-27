@@ -1,7 +1,7 @@
 ---
-title: "Apéro-Piano au Centre d’Accueil du lac d’Estaing"
-date: 2025-08-08
-description: "Un concert inoubliable au cœur des Pyrénées"
+title: "Apéro-Piano au Centre d’Accueil du lac d’Estaing n°"
+date: 2025-08-08T23:59:00
+description: "Petite pause musicale et gourmande au cœur des Pyrénées"
 categories: ["concert", "nature"]
 tags: ["musique", "piano", "plein air"]
 image: "/images/concert1-1.jpeg"
@@ -12,7 +12,7 @@ type: post
 ## Les détails
 
 - **Date** : 8 août 2025 à 18h
-- **Lieu** : Centre d’Accueil du lac d’Estaing
+- **Lieu** : Lac d’Estaing
 
 {{< figure src="/images/apero-piano estaing.PNG">}}
 

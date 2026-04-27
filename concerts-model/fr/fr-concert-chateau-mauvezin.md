@@ -1,6 +1,6 @@
 ---
 title: "Concert au Chateau de Mauvezin"
-date: 2025-05-31
+date: 2025-05-31T23:59:00
 description: "L’événement est organisé en colaboration avec l’association « la Marguerite de Mauvezin », « l’escola Gaston Febus »"
 categories: ["concert", "nature"]
 tags: ["musique classique", "piano", "chateau", "été"]
