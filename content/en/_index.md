@@ -12,12 +12,16 @@ I offer piano concerts in the mountains, where the concept is to admire the land
 
 Each concert lasts about 1 hour and the price is pay-what-you-want.
 
-I will be playing regularly this summer until autumn 2025, alternating between 4 locations:
-
-- Lac du Tech
-- Col de Couret
-- Lac d’Estaing
-- Col du Soulor
+Locations of the concerts : 
+    
+  - **Lac du Tech**
+  - **Lac d’Estaing**
+  - **Col du Soulor**
+  - **Col de Couret** 
+  - **Hautacam**
+  - **Lac de Genos-Loudenvielle**
+  - **Lac de Payolle**
+  - **Parc Thermal d'Argeles-Gazost**
 
 However, I am dependent on the weather, so concerts may be cancelled or postponed in case of bad weather. Please make sure to check the day before and on the day itself to confirm if the event is going ahead on the WhatsApp group:
 

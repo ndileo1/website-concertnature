@@ -1,6 +1,6 @@
 ---
 title: "À propos"
-description: "découvrez ma passion pour la musique et la nature"
+description: "Découvrez ma passion pour la musique et la nature"
 cover_dimming_class: "bg-black-30"
 featured_image: '/images/header.png'
 menu:

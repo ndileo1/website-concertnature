@@ -1,6 +1,6 @@
 ---
 title: "Concert au Lac d'Estaing"
-date: 2025-07-13
+date: 2025-07-13T23:59:00
 draft: false
 type: post
 categories: ["concert"]

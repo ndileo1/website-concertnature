@@ -1,6 +1,6 @@
 ---
 title: "Concert au col de couret"
-date: 2025-08-22
+date: 2025-08-22T23:59:00
 description: "Une expérience unique au coeur des Pyrénées"
 categories: ["concert", "nature"]
 tags: ["musique classique", "piano", "montagne", "été"]
