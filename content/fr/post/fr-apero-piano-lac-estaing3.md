@@ -1,6 +1,6 @@
 ---
-title: "APERO-PIANO au Lac d’Estaing n°1"
-date: 2026-06-19T23:59:00
+title: "APERO-PIANO au Lac d’Estaing n°3"
+date: 2026-08-28T23:59:00
 description: "Petite pause musicale et gourmande au cœur des Pyrénées"
 categories: ["concert", "nature"]
 tags: ["musique", "piano", "plein air"]
@@ -11,7 +11,7 @@ type: post
 
 ## Détails
 
-- **Date** : Vendredi 19 juin 2026
+- **Date** : Vendredi 28 Août 2026
 - **Heure** : 18h
 - **Lieu** : Estaing, Hautes-Pyrénées
 

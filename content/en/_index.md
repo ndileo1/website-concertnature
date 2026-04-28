@@ -23,6 +23,6 @@ Locations of the concerts :
   - **Lac de Payolle**
   - **Parc Thermal d'Argeles-Gazost**
 
-However, I am dependent on the weather, so concerts may be cancelled or postponed in case of bad weather. Please make sure to check the day before and on the day itself to confirm if the event is going ahead on the WhatsApp group:
+However, I am dependent on the weather, so concerts may be cancelled or postponed in case of bad weather. Please make sure to check the day before and on the day itself to confirm if the event is going ahead on : 
 
-https://chat.whatsapp.com/DDwdBGF8bXe9GePZuLr3bI?mode=ac_t
+[Whatsapp](https://chat.whatsapp.com/DDwdBGF8bXe9GePZuLr3bI?mode=ac_t)

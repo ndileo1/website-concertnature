@@ -16,6 +16,7 @@ type: post
 
 - **Date** : Vendredi 23 mai 2026
 - **Heure** : 18h
+- **Lieu** : Mauvezin, Hautes-Pyrénées
 
 {{< figure src="/images/cn mauvezin.jpeg">}}
 
