@@ -1,6 +1,6 @@
 ---
 title: "Piano & Drinks at Lac d'Estaing"
-date: 2026-06-19T23:59:00
+date: 2026-08-28T23:59:00
 description: "An unforgettable concert in the heart of the Pyrenees"
 categories: ["concert", "nature"]
 tags: ["music", "piano", "outdoor"]
@@ -11,7 +11,7 @@ type: post
 
 ## Details
 
-- **Date**: Friday, 19th June 2026
+- **Date**: Friday, 28th August 2026
 - **Time**: 6 PM
 - **Location**: Estaing, Hautes-Pyrénées
 

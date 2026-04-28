@@ -11,8 +11,9 @@ type: post
 
 ## Details
 
-- **Date**: May 23, 2026
-- **Heure**: 18h
+- **Date**: Friday, 23th May 2026
+- **Heure**: 6 PM
+- **Location** : Mauvezin, Hautes-Pyrénées
 
 {{< figure src="/images/cn mauvezin.jpeg">}}
 
@@ -33,6 +34,7 @@ Moreover, you will be settled in the grass. For those who want, don’t hesitate
 
 Open participation.
 
+[Live information on whatsapp](https://chat.whatsapp.com/DDwdBGF8bXe9GePZuLr3bI?mode=ac_t)
 
 {{< accordion-en >}}
 

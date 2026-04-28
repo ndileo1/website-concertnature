@@ -1,5 +1,5 @@
 ---
-title: "Piano & Appetizer at the Lac d'Estaing"
+title: "Piano & Drinks at Lac d'Estaing"
 date: 2026-06-19T23:59:00
 description: "An unforgettable concert in the heart of the Pyrenees"
 categories: ["concert", "nature"]
@@ -11,14 +11,17 @@ type: post
 
 ## Details
 
-- **Date**: June 19, 2026
-- **Location**: Lac d'Estaing
+- **Date**: Friday, 19th June 2026
 - **Time**: 6 PM
+- **Location**: Estaing, Hautes-Pyrénées
 
 
-{{< figure src="/images/apero-piano estaing.PNG">}}
 
-The Lac d'Estaing Interpretation Center and I are offering a "piano aperitif" evening. Come and enjoy the incredible scenery of Lac d'Estaing on the terrace while listening to beautiful melodies.
+{{< figure src="/images/apero piano.jpg">}}
+
+Join me at the Restaurant du Lac d'Estaing for a timeless escape. On the program: soaring melodies, tapas to share, and a drink in hand facing one of the most breathtaking panoramas in the Pyrenees.
+
+[Live information on whatsapp](https://chat.whatsapp.com/DDwdBGF8bXe9GePZuLr3bI?mode=ac_t)
 
 ## Location
 
