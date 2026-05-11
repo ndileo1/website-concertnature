@@ -7,14 +7,15 @@ categories: ["concert"]
 tags: ["musique", "piano"]
 ---
 
-## Détails de l'événement
+## Détails
 
-**Date** : 13 juillet 2025 à 16h00    
-**Lieu** : Lac d'Estaing, Hautes-Pyrénées
+- **Date** : 13 juillet 2026
+- **Lieu** : Estaing, Hautes-Pyrénées
+- **Heure** : 18h
 
 {{< figure src="/images/cn estaing 4.jpg">}}
 
-Venez vivre une expérience magnifique dans un des plus beaux endroits des Hautes-Pyrenées !!
+Venez vivre une expérience magnifique avec la grandeur des montagnes et la douceur du piano dans un des plus beaux endroits des Hautes-Pyrenées !!
 
 ## Localisation
 
