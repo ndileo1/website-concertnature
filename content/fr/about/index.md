@@ -10,8 +10,6 @@ menu:
 
 {{< figure src="/images/cn estaing 5.jpg">}}
 
- [Ecoutez mon dernier interview radio](https://www.frequenceluz.com/parle-musique/concerts-nature-timothee)
-
 ## Matériel : 
 
 - Piano : Roland Fp-30
@@ -26,7 +24,20 @@ Rêvant de faire de ma passion un travail, j’ai commencé à prendre des cours
 
 Le suite de mon parcours reste à écrire et c’est avec vous qui me lisez que je souhaite le partager.
 
+-----------------------------------------------------------------------
+
 {{< figure src="/images/article.jpg" >}}
+
+-----------------------------------------------------------------------
+
+Ecoutez mon dernier interview radio :
+ {{< linkpreview
+    url="https://www.frequenceluz.com/parle-musique/concerts-nature-timothee"
+    title="Les Concerts Nature de Timothée | Fréquence Luz"
+    description="Saisonnier dans la vallée, Timothée Di Leo propose des concerts estivaux poétiques dans les plus beaux sites du Val d’Azun pour partager avec le public sa passion pour le piano et pour la montagne."
+    favicon="https://www.frequenceluz.com/themes/custom/waldo/img/logoheader_minified.svg"
+>}}
+
 
 ## Avis :
 
