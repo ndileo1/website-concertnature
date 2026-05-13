@@ -12,7 +12,7 @@ tags: ["musique", "piano"]
 - **Date** : Samedi 06 Juin 2026
 - **Heure** : 15h
 
-{{< figure src="/images/3.JPG">}}
+{{< figure src="/images/tech1.png">}}
 
 Le Piano en montagne, offrez-vous cette expérience hors du temps au lac du Tech !
 
