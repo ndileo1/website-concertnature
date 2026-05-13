@@ -14,7 +14,7 @@ type: post
 
 ## Détails
 
-- **Date** : Vendredi 23 mai 2026
+- **Date** : Vendredi 23 Mai 2026
 - **Heure** : 18h
 - **Lieu** : Mauvezin, Hautes-Pyrénées
 

@@ -1,6 +1,6 @@
 ---
 title: "Concert au Lac de Genos-Loudenvieille"
-date: 2025-09-20T23:59:00
+date: 2026-09-20T23:59:00
 description: "Un concert inoubliable au cœur des Pyrénées"
 categories: ["concert", "nature"]
 tags: ["musique classique", "piano", "montagne", "été"]
@@ -8,10 +8,10 @@ image: "/images/first-images.png"
 type: post
 ---
 
-## Détails de l'événement :
+## Détails :
 
-- **Date** : Samedi 20 septembre 2025 à 16h
-- **Lieu** : Lac de Genos-Loudenvielle, Pyrénées
+- **Date** : Samedi 13 juin 2026
+- **Heure** : 16h
 
 {{< figure src="/images/tp loudenvielle.jpeg">}}
 
