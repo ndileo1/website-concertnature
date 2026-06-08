@@ -2,7 +2,7 @@
 title: "Concert Nature"
 
 cascade:
-  featured_image: '/images/header8.png'
+  featured_image: '/images/header 11.png'
 ---
 
 Mon concept est de proposer des concerts de piano dans les lieux les plus insolites, tel que les lacs (ou col) de montagne, les plages, chateaux ...
