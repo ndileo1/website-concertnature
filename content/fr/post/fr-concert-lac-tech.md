@@ -14,7 +14,7 @@ tags: ["musique", "piano"]
 
 {{< figure src="/images/tech 00.png">}}
 
-Un concert de piano en nature c'est s'offir une expérience magique dans un cadre exeptionnel !
+Un concert de piano en nature c'est s'offir une expérience magique dans un cadre exeptionnel !!
 
 [Voir la localisation sur Google Maps](https://maps.app.goo.gl/vTPuHAeQxVpcTfxx5)
 

@@ -14,7 +14,7 @@ tags: ["musique", "piano"]
 
 {{< figure src="/images/soulor 1.png">}}
 
-Un piano en montagne, les vautours dans le ciel, les vaches, les brebis et les chevaux en liberté dans l'immense beauté qu'est le col du Soulor. Offrez-vous cette expérience hors du temps !
+Un piano en montagne, les vautours dans le ciel, les vaches, les brebis et les chevaux en liberté dans l'immense beauté qu'est le col du Soulor. Offrez-vous cette expérience hors du temps !!
 
 [Voir la localisation sur Google Maps](https://maps.app.goo.gl/Ep6CGBqysJQyvUdY8)
 
