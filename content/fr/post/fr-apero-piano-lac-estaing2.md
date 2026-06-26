@@ -1,5 +1,5 @@
 ---
-title: "APERO-PIANO AU LAC D'ESTAING"
+title: "APERO-CONCERT AU LAC D'ESTAING"
 date: 2026-07-31T23:59:00
 description: "Petite pause musicale et gourmande au cœur des Pyrénées"
 categories: ["concert", "nature"]

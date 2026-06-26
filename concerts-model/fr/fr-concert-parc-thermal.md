@@ -1,6 +1,6 @@
 ---
 title: "CONCERT AU PARC THERMAL"
-date: 2026-07-07T23:59:00
+date: 2026-06-14T23:59:00
 draft: false
 type: post
 categories: ["concert"]
@@ -9,12 +9,12 @@ tags: ["musique", "piano"]
 
 ## Détails
 
-- **Date** : Mardi 07 Juillet 2026
-- **Heure** : 20h30
+- **Date** : Dimanche 14 Juin 2026
+- **Heure** : 15h
 
 {{< figure src="/images/parc thermal.png">}}
 
-Que dite-vous d'une petite pause douceur en fin de journée dans le merveilleux parc thermal d'Argeles-Gazost ? 
+Que dite-vous d'une petite pause piano lors d'un dimanche après-midi ensolleillé au parc thermal d'Argeles-Gazost ? 
 
 [Voir la localisation sur Google Maps](https://maps.app.goo.gl/njYzLhEq3KYNkrbz5)
 
