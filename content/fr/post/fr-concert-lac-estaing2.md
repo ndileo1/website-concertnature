@@ -10,7 +10,7 @@ tags: ["musique", "piano"]
 ## Détails
 
 - **Date** : Vendredi 17 Juillet 2026
-- **Heure** : 17h
+- **Heure** : 16h
 
 {{< figure src="/images/cn estaing 4.jpg">}}
 

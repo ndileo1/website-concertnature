@@ -1,25 +1,23 @@
 ---
-title: "Concert à Hautacam"
-date: 2025-01-27T23:59:00
-description: "Un concert inoubliable au cœur des Pyrénées"
-categories: ["concert", "nature"]
-tags: ["musique classique", "musique de film", "montagne", "nature"]
-image: "/images/first-images.png"
+title: "CONCERT A HAUTACAM"
+date: 2026-06-20T23:59:00
+draft: false
 type: post
+categories: ["concert"]
+tags: ["musique", "piano"]
 ---
 
-## Détails de l'événement :
+## Détails
 
-- **Date** : Mardi 27 janvier 2026 à 14h
-- **Lieu** : Hautacam, Hautes-Pyrénées
+- **Date** : Samedi 20 Juin 2026
+- **Heure** : 15h
 
-{{< figure src="/images/hautacam.jpg">}}
+{{< figure src="/images/Hautacam1.png">}}
 
-Venez profiter du paysage magnifique du Hautacam tout en écoutant le doux son du piano. Une expérience suspendu dans les Pyrénées ! Possibilité de se restaurer au restaurant "le Tramassel". 
+Offrez-vous un moment hors du temps en piano avec la vue sur le Pic du Midi !
 
-## Localisation :
+[Voir la localisation sur Google Maps](https://maps.app.goo.gl/tgGEMJ84vLzHw9mB9)
 
-{{< figure src="/images/loc hautacam.png">}}
+-------------------------------------
 
-
-
+[Acceder au groupe whatsapp](https://chat.whatsapp.com/DDwdBGF8bXe9GePZuLr3bI?mode=ac_t)

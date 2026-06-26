@@ -1,6 +1,6 @@
 ---
 title: "CONCERT AU LAC DU TECH"
-date: 2026-06-06T23:59:00
+date: 2026-08-02T23:59:00
 draft: false
 type: post
 categories: ["concert"]
@@ -9,12 +9,12 @@ tags: ["musique", "piano"]
 
 ## Détails
 
-- **Date** : Samedi 06 Juin 2026
-- **Heure** : 15h
+- **Date** : Dimanche 02 Août 2026
+- **Heure** : 20h
 
 {{< figure src="/images/tech 00.png">}}
 
-Le Piano en montagne, offrez-vous cette expérience hors du temps au lac du Tech !
+Un concert de piano en nature c'est s'offir une expérience magique dans un cadre exeptionnel !! 
 
 [Voir la localisation sur Google Maps](https://maps.app.goo.gl/vTPuHAeQxVpcTfxx5)
 
