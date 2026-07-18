@@ -10,7 +10,7 @@ tags: ["musique", "piano"]
 ## Détails
 
 - **Date** : Dimanche 02 Août 2026
-- **Heure** : 20h
+- **Heure** : 18h
 
 {{< figure src="/images/tech 00.png">}}
 

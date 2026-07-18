@@ -1,6 +1,6 @@
 ---
 title: "CONCERT AU LAC DE PAYOLLE"
-date: 2026-07-25T23:59:00
+date: 2026-07-27T23:59:00
 categories: ["concert", "nature"]
 tags: ["musique classique", "piano", "montagne", "été"]
 image: "/images/first-images.png"
@@ -9,7 +9,7 @@ type: post
 
 ## Détails :
 
-- **Date** : Samedi 25 Juillet 2026
+- **Date** : Lundi 27 Juillet 2026
 - **Heure** : 20h
 
 {{< figure src="/images/payolle.png">}}
