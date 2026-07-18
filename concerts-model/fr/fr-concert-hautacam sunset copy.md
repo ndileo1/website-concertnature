@@ -1,6 +1,6 @@
 ---
-title: "PIANO SUNSET A HAUTACAM"
-date: 2026-08-25T23:59:00
+title: "ANNULE   PIANO SUNSET A HAUTACAM"
+date: 2026-07-18T23:59:00
 draft: false
 type: post
 categories: ["concert"]
@@ -9,8 +9,8 @@ tags: ["musique", "piano"]
 
 ## Détails
 
-- **Date** : Mardi 25 Août 2026
-- **Heure** : 20h
+- **Date** : Samedi 18 Juillet 2026
+- **Heure** : 20h30
 
 {{< figure src="/images/Hautacam2.png">}}
 

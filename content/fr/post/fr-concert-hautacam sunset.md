@@ -1,5 +1,5 @@
 ---
-title: "PIANO SUNSET A HAUTACAM"
+title: "ANNULE   PIANO SUNSET A HAUTACAM"
 date: 2026-07-18T23:59:00
 draft: false
 type: post
@@ -14,8 +14,7 @@ tags: ["musique", "piano"]
 
 {{< figure src="/images/Hautacam2.png">}}
 
-Imaginer un magnifique coucher de soleil tout en contemplant les montagnes accomapagné du piano au sommet du Soum de Tramassel à Hautacam ! C'est l'expérience magique que je vous propose.
-
+LE CONCERT EST ANNULE CAR MAUVAISE METEO
 
 [Voir la localisation sur Google Maps](https://maps.app.goo.gl/tgGEMJ84vLzHw9mB9)
 

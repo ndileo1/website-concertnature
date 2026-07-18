@@ -1,6 +1,6 @@
 ---
 title: "CONCERT AU PARC THERMAL"
-date: 2026-07-07T23:59:00
+date: 2026-08-26T23:59:00
 draft: false
 type: post
 categories: ["concert"]
@@ -9,8 +9,8 @@ tags: ["musique", "piano"]
 
 ## Détails
 
-- **Date** : Mardi 07 Juillet 2026
-- **Heure** : 20h30
+- **Date** : Mercredi 26 Août 2026
+- **Heure** : 20h
 
 {{< figure src="/images/parc thermal.png">}}
 

@@ -10,7 +10,8 @@ tags: ["musique", "piano"]
 ## Détails
 
 - **Date** : Samedi 01 Août 2026
-- **Heure** : 20h
+- **Heure** : 18
+h
 
 {{< figure src="/images/cn estaing 4.jpg">}}
 

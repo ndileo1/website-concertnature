@@ -1,6 +1,6 @@
 ---
-title: "CONCERT AU COL DU SOULOR"
-date: 2026-07-03T23:59:00
+title: "PIANO SUNSET AU COL DU SOULOR"
+date: 2026-08-30T23:59:00
 draft: false
 type: post
 categories: ["concert"]
@@ -9,8 +9,8 @@ tags: ["musique", "piano"]
 
 ## Détails
 
-- **Date** : Vendredi 03 Juillet 2026
-- **Heure** : 20h30
+- **Date** : Dimanche 30 Août 2026
+- **Heure** : 20h
 
 {{< figure src="/images/soulor 1.png">}}
 
