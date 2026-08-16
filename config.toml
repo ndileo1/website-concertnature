@@ -5,14 +5,12 @@ theme = "ananke"
 timeZone = "Europe/Paris"
 
 DefaultContentLanguage = "fr"
-SectionPagesMenu = "main"
+# SectionPagesMenu = "main"
+buildFuture = true  # Afficher les contenus datés dans le futur
+enableRobotsTXT = true
+
 [pagination]
 pagerSize = 10  # Nombre d'articles affichés par page
-
-
-[build]
-  future = true  # Afficher les contenus datés dans le futur
-enableRobotsTXT = true
 
 [languages]
 [languages.fr]
@@ -20,10 +18,6 @@ title = "Concert Nature"
 weight = 1
 contentDir = "content/fr"
 # languageDirection = 'rtl' for Right-To-Left languages
-[languages.en]
-title = "Concert Nature"
-contentDir = "content/en"
-weight = 2
 
 [sitemap]
 changefreq = "monthly"

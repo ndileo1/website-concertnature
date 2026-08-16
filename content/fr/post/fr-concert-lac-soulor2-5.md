@@ -1,6 +1,6 @@
 ---
-title: "ANNULÉ - PIANO SUNSET AU COL DU SOULOR"
-date: 2026-08-16T23:59:00
+title: "PIANO SUNSET AU COL DU SOULOR"
+date: 2026-08-18T23:59:00
 draft: false
 type: post
 categories: ["concert"]
@@ -9,12 +9,12 @@ tags: ["musique", "piano"]
 
 ## Détails
 
-- **Date** : Dimanche 16 Août 2026
-- **Heure** : 20h
+- **Date** : Mardi 18 Août 2026
+- **Heure** : 19h30
 
 {{< figure src="/images/soulor 1.png">}}
 
-Mauvaise condition météo.
+Un piano en montagne, les vautours dans le ciel, les vaches, les brebis et les chevaux en liberté dans l'immense beauté qu'est le col du Soulor. Offrez-vous cette expérience hors du temps !!
 
 [Voir la localisation sur Google Maps](https://maps.app.goo.gl/Ep6CGBqysJQyvUdY8)
 
