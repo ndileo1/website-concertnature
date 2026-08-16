@@ -5,7 +5,7 @@ theme = "ananke"
 timeZone = "Europe/Paris"
 
 DefaultContentLanguage = "fr"
-SectionPagesMenu = "main"
+# SectionPagesMenu = "main"
 buildFuture = true  # Afficher les contenus datés dans le futur
 enableRobotsTXT = true
 
