@@ -5,21 +5,27 @@
       <section class="w-100 w-50-l ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | default "mid-gray" }}">
         {{- .Content -}}
       </section>
-      <!-- Colonne droite : prochain concert -->
+      <!-- Colonne droite : concerts à venir -->
       <section class="w-100 w-50-l ph3 ph5-l pv3 pv4-l">
         {{ $now := now }}
         {{ $upcoming := where .Site.RegularPages "Section" "post" }}
+        <p>Debug: Count of total posts in section 'post': {{ len $upcoming }}</p>
+        <ul>
+        {{ range $upcoming }}
+          <li>Title: {{ .Title }} | Date: {{ .Date }} | Date.Unix: {{ .Date.Unix }} | Now.Unix: {{ $now.Unix }} | Diff: {{ sub .Date.Unix $now.Unix }}</li>
+        {{ end }}
+        </ul>
         {{ $upcoming = sort $upcoming ".Date" "asc" }}
         {{ $futureConcerts := slice }}
         {{ range $upcoming }}
-          {{ if ge .Date.Unix now.Unix }}
+          {{ if ge .Date.Unix $now.Unix }}
             {{ $futureConcerts = $futureConcerts | append . }}
           {{ end }}
         {{ end }}
         {{ if gt (len $futureConcerts) 0 }}
           <h2 class="f3 tc">{{ i18n "upcomingConcerts" }}</h2>
           <div class="mb4">
-            {{ with index $futureConcerts 0 }}
+            {{ range $futureConcerts }}
               {{ .Render "summary" }}
             {{ end }}
           </div>
