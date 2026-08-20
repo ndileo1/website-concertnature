@@ -1,5 +1,5 @@
 ---
-title: "CONCERT AU LAC DE PAYOLLE"
+title: "ANNULÉ - CONCERT AU LAC DE PAYOLLE"
 date: 2026-08-21T23:59:00
 categories: ["concert", "nature"]
 tags: ["musique classique", "piano", "montagne", "été"]
@@ -14,7 +14,7 @@ type: post
 
 {{< figure src="/images/payolle.png">}}
 
-Envie d'une évasion dans nos belles Pyrénées, je vous propose un concert de piano au bord du lac de Payolle lors d'une douce soirée ! 
+ANNULÉ - Mauvaise condition météo.
 
 [Acceder au groupe whatsapp](https://chat.whatsapp.com/DDwdBGF8bXe9GePZuLr3bI?mode=ac_t)
 
