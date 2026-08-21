@@ -3,7 +3,7 @@ title: "FESTIVAL DE LA FETE DU CIEL"
 date: 2026-09-12T23:59:00
 draft: false
 type: post
-categories: ["concert"]
+categories: ["festival"]
 tags: ["musique", "piano"]
 ---
 
@@ -12,7 +12,7 @@ tags: ["musique", "piano"]
 - **Date** : Samedi 12 Septembre 2026
 - **Heure** : 14h à 17h
 
-{{< figure src="/images/soulor 1.png">}}
+{{< figure src="/images/couraduk.jpg">}}
 
 Un piano en montagne, des parapentistes dans le ciel et les mélodies qui s'envole rejoindre les humains qui se prenne pour des oiseaux. Peut-être les vautours seront de la partie ? 
 Ne loupez pas cette expérience extra-ordinaire lors du festival de la fête du ciel 2026.
