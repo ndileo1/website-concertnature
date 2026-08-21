@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: ''
+featured_image: '/images/lys 3.JPG'
 omit_header_text: true
 description: "Prenez contact avec l'équipe de Concert Nature"
 type: page
@@ -8,7 +8,7 @@ menu: main
 
 ---
 
-Vous avez des questions sur mes concerts ? Vous souhaitez organiser un concert avec moi ? N'hésitez pas à m'écrire !
+Vous avez des questions sur mes concerts ? Vous souhaitez me réserver pour organiser l'un de vos évenement ? Mariage, festival, évenement ... N'hésitez pas à me contacter !
 
 ### Coordonnées
 
