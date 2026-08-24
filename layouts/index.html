@@ -192,7 +192,7 @@
       {{ $cleanText = $cleanText | plainify }}
       {{ $cleanText = $cleanText | htmlUnescape }}
 
-      <a href="{{ .RelPermalink }}" class="concert-card">
+      <a href="{{ .RelPermalink }}" class="concert-card" data-date="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
         <div class="concert-card-img-wrapper">
           {{ if $img }}
             <img src="{{ $img }}" class="concert-card-img" alt="{{ .Title }}">
@@ -220,10 +220,45 @@
         </div>
       </a>
     {{ else }}
-      <div class="tc mv5 w-100">
+      <div class="tc mv5 w-100" id="hugo-empty-message">
         <p class="f4">Aucun concert à venir pour le moment. Revenez bientôt pour découvrir nos prochains événements !</p>
       </div>
     {{ end }}
   </div>
+  
+  <div id="js-empty-message" class="tc mv5 w-100" style="display: none;">
+    <p class="f4">Aucun concert à venir pour le moment. Revenez bientôt pour découvrir nos prochains événements !</p>
+  </div>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const cards = document.querySelectorAll('.concert-card');
+    if (cards.length === 0) return; // Hugo a déjà affiché le message vide
+
+    const now = new Date();
+    let visibleCount = 0;
+    
+    cards.forEach(card => {
+      const dateStr = card.getAttribute('data-date');
+      if (dateStr) {
+        const eventDate = new Date(dateStr);
+        if (eventDate < now) {
+          card.style.display = 'none';
+        } else {
+          visibleCount++;
+        }
+      }
+    });
+
+    const grid = document.querySelector('.concerts-grid');
+    const jsEmptyMessage = document.getElementById('js-empty-message');
+    
+    // Si toutes les cartes affichées par Hugo sont maintenant cachées par le JS
+    if (visibleCount === 0) {
+      grid.style.display = 'none';
+      jsEmptyMessage.style.display = 'block';
+    }
+  });
+</script>
 {{ end }}
