@@ -199,7 +199,11 @@
           {{ else }}
             <img src="/images/header 11.png" class="concert-card-img" alt="{{ .Title }}">
           {{ end }}
-          <span class="concert-badge">Concert</span>
+          {{ $badge := "CONCERT" }}
+          {{ if .Params.categories }}
+            {{ $badge = index .Params.categories 0 | upper }}
+          {{ end }}
+          <span class="concert-badge">{{ $badge }}</span>
         </div>
         <div class="concert-card-content">
           <div class="concert-date" style="text-transform: none;">
