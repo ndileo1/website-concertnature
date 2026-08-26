@@ -1,5 +1,5 @@
 ---
-title: "APERO-CONCERT AU LAC D'ESTAING"
+title: "ANNULE - APERO-CONCERT AU LAC D'ESTAING"
 date: 2026-08-28T23:59:00
 description: "Petite pause musicale et gourmande au cœur des Pyrénées"
 categories: ["apéro"]
@@ -16,7 +16,9 @@ type: post
 
 {{< figure src="/images/apero piano.jpg">}}
 
-Rejoignez-moi au (Restaurant) Centre d'Acceuil du Lac d'Estaing pour un moment suspendu. Au programme : des mélodies au piano, des tapas à partager et un verre à la main face à l'un des plus beaux panoramas des Pyrénées.
+Le concert est annulé car j'ai une tendinite au poignet gauche. Je me soigne et je revien au plus vite pour continuer de vous offrir de jolie moment dans les pyrénées. Veillez m'excuser du contretemps. 
+
+Timothée
 
 [Accedez au groupe whatsapp](https://chat.whatsapp.com/DDwdBGF8bXe9GePZuLr3bI?mode=ac_t)
 

@@ -1,5 +1,5 @@
 ---
-title: "CONCERT AU PARC THERMAL"
+title: "ANNULE - CONCERT AU PARC THERMAL"
 date: 2026-08-26T23:59:00
 draft: false
 type: post
@@ -14,7 +14,9 @@ tags: ["musique", "piano"]
 
 {{< figure src="/images/parc thermal.png">}}
 
-Que dite-vous d'une petite pause douceur en fin de journée dans le merveilleux parc thermal d'Argeles-Gazost ? 
+Le concert est annulé car j'ai une tendinite au poignet gauche. Je me soigne et je revien au plus vite pour continuer de vous offrir de jolie moment dans les pyrénées. Veillez m'excuser du contretemps. 
+
+Timothée
 
 [Voir la localisation sur Google Maps](https://maps.app.goo.gl/njYzLhEq3KYNkrbz5)
 
