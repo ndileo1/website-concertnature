@@ -1,6 +1,6 @@
 ---
-title: "CONCERT AU PARC D'ARRENS-MARSOUS"
-date: 2026-09-26T23:59:00
+title: "CONCERT AU LAC DU TECH"
+date: 2026-10-10T23:59:00
 draft: false
 type: post
 categories: ["concert"]
@@ -9,14 +9,12 @@ tags: ["musique", "piano"]
 
 ## Détails
 
-- **Date** : Samedi 09 Septembre 2026
-- **Heure** : 18h
+- **Date** : Samedi 10 Octobre 2026
+- **Heure** : 15h
 
 {{< figure src="/images/tech 00.png">}}
 
-Venez profiter d'un concert de piano dans le magnifique parc d'Arrens-Marsous (derrière la piscine).
-Offrer-vous ce petit moment de détente entre seul ou accompagné. 
-Hâte de vous y retrouver. 
+Le Piano en montagne, offrez-vous cette expérience hors du temps au lac du Tech !
 
 [Voir la localisation sur Google Maps](https://maps.app.goo.gl/vTPuHAeQxVpcTfxx5)
 

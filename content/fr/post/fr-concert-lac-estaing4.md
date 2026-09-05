@@ -1,6 +1,6 @@
 ---
 title: "CONCERT AU LAC D'ESTAING"
-date: 2026-08-14T23:59:00
+date: 2026-10-11T23:59:00
 draft: false
 type: post
 categories: ["concert"]
@@ -9,8 +9,8 @@ tags: ["musique", "piano"]
 
 ## Détails
 
-- **Date** : Vendredi 14 Août 2026
-- **Heure** : 16h
+- **Date** : Dimanche 11 Octobre 2026
+- **Heure** : 15h
 
 {{< figure src="/images/cn estaing 4.jpg">}}
 

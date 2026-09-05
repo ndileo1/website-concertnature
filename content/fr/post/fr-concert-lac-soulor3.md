@@ -1,6 +1,6 @@
 ---
-title: "ANNULE - PIANO SUNSET AU COL DU SOULOR"
-date: 2026-08-30T23:59:00
+title: "PIANO SUNSET AU COL DU SOULOR"
+date: 2026-09-27T23:59:00
 draft: false
 type: post
 categories: ["concert"]
@@ -9,14 +9,13 @@ tags: ["musique", "piano"]
 
 ## Détails
 
-- **Date** : Dimanche 30 Août 2026
-- **Heure** : 20h
+- **Date** : Dimanche 27 Septembre 2026
+- **Heure** : 17h
 
 {{< figure src="/images/soulor 1.png">}}
 
-Le concert est annulé car j'ai une tendinite au poignet gauche. Je me soigne et je revien au plus vite pour continuer de vous offrir de jolie moment dans les pyrénées. Veillez m'excuser du contretemps. 
+Un piano en montagne, les vautours dans le ciel, les vaches, les brebis et les chevaux en liberté dans l'immense beauté qu'est le col du Soulor. Offrez-vous cette expérience hors du temps !!
 
-Timothée
 
 [Voir la localisation sur Google Maps](https://maps.app.goo.gl/Ep6CGBqysJQyvUdY8)
 

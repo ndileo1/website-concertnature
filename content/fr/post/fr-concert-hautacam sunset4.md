@@ -1,6 +1,6 @@
 ---
 title: "PIANO SUNSET A HAUTACAM"
-date: 2026-08-25T23:59:00
+date: 2026-10-17T23:59:00
 draft: false
 type: post
 categories: ["concert"]
@@ -9,13 +9,14 @@ tags: ["musique", "piano"]
 
 ## Détails
 
-- **Date** : Mardi 25 Août 2026
-- **Heure** : 20h
+- **Date** : Samedi 17 Octobre 2026
+- **Heure** : 18h
 
 {{< figure src="/images/Hautacam2.png">}}
 
 Imaginer un magnifique coucher de soleil tout en contemplant les montagnes accomapagné du piano au sommet du Soum de Tramassel à Hautacam ! C'est l'expérience magique que je vous propose.
 
+Si mauvaise météo, le concert sera reporté au lendemain (dimanche 18/10) à la méme heure.
 
 [Voir la localisation sur Google Maps](https://maps.app.goo.gl/tgGEMJ84vLzHw9mB9)
 
