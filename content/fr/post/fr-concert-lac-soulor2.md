@@ -9,12 +9,14 @@ tags: ["musique", "piano"]
 
 ## Détails
 
-- **Date** : Dimanche 16 Août 2026
-- **Heure** : 20h
+- **Date** : Samedi 24 Octobre 2026
+- **Heure** : 17h
 
 {{< figure src="/images/soulor 1.png">}}
 
-Mauvaise condition météo.
+Un piano en montagne, les vautours dans le ciel, les vaches, les brebis et les chevaux en liberté dans l'immense beauté qu'est le col du Soulor. Offrez-vous cette expérience hors du temps !!
+
+Si mauvaise météo, le concert sera reporté au lendemain (dimanche 04/10) à la méme heure.
 
 [Voir la localisation sur Google Maps](https://maps.app.goo.gl/Ep6CGBqysJQyvUdY8)
 
