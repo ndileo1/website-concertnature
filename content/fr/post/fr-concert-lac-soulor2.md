@@ -1,6 +1,6 @@
 ---
-title: "ANNULÉ - PIANO SUNSET AU COL DU SOULOR"
-date: 2026-08-16T23:59:00
+title: "PIANO SUNSET AU COL DU SOULOR"
+date: 2026-10-24T23:59:00
 draft: false
 type: post
 categories: ["concert"]
@@ -10,7 +10,7 @@ tags: ["musique", "piano"]
 ## Détails
 
 - **Date** : Samedi 24 Octobre 2026
-- **Heure** : 17h
+- **Heure** : 17h30
 
 {{< figure src="/images/soulor 1.png">}}
 

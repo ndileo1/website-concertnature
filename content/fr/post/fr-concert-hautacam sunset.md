@@ -1,6 +1,6 @@
 ---
-title: "ANNULE   PIANO SUNSET A HAUTACAM"
-date: 2026-07-18T23:59:00
+title: "PIANO SUNSET A HAUTACAM"
+date: 2026-10-17T23:59:00
 draft: false
 type: post
 categories: ["concert"]
@@ -9,12 +9,14 @@ tags: ["musique", "piano"]
 
 ## Détails
 
-- **Date** : Samedi 18 Juillet 2026
-- **Heure** : 20h30
+- **Date** : Samedi 17 Octobre 2026
+- **Heure** : 17h30
 
 {{< figure src="/images/Hautacam2.png">}}
 
-LE CONCERT EST ANNULE CAR MAUVAISE METEO
+Imaginer un magnifique coucher de soleil tout en contemplant les montagnes accomapagné du piano au sommet du Soum de Tramassel à Hautacam ! C'est l'expérience magique que je vous propose.
+
+Si mauvaise météo, le concert sera reporté au lendemain (dimanche 18/10) à la méme heure.
 
 [Voir la localisation sur Google Maps](https://maps.app.goo.gl/tgGEMJ84vLzHw9mB9)
 
