@@ -1,5 +1,5 @@
 ---
-title: "PIANO SUNSET AU COL DU SOULOR"
+title: "CONCERT DE PIANO AU COL DE COURADUQUE"
 date: 2026-09-27T23:59:00
 draft: false
 type: post
@@ -12,7 +12,7 @@ tags: ["musique", "piano"]
 - **Date** : Dimanche 27 Septembre 2026
 - **Heure** : 17h
 
-{{< figure src="/images/soulor 1.png">}}
+{{< figure src="/images/cn couret 2.jpg">}}
 
 Un piano en montagne, les vautours dans le ciel, les vaches, les brebis et les chevaux en liberté dans l'immense beauté qu'est le col du Soulor. Offrez-vous cette expérience hors du temps !!
 
